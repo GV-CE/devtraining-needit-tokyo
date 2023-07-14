@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices>info,warn,error,debug</choices>
+        <description/>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_58872_needit.logging.verbosity</name>
+        <read_roles/>
+        <suffix>logging.verbosity</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin_gv_cengelund</sys_created_by>
+        <sys_created_on>2023-07-13 20:48:52</sys_created_on>
+        <sys_id>67d88ac947883110a1c19db6926d4345</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_58872_needit.logging.verbosity</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_67d88ac947883110a1c19db6926d4345</sys_update_name>
+        <sys_updated_by>admin_gv_cengelund</sys_updated_by>
+        <sys_updated_on>2023-07-13 20:57:03</sys_updated_on>
+        <type>choicelist</type>
+        <value>debug</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=67d88ac947883110a1c19db6926d4345"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>f9f9e74e1bcb6c14e84d2f8dee4bcb3f</instance_id>
+        <instance_name>dev108307</instance_name>
+        <name>sys_properties_67d88ac947883110a1c19db6926d4345</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices>info,warn,error,debug</choices><description/><ignore_cache>true</ignore_cache><is_private>false</is_private><name>x_58872_needit.logging.verbosity</name><read_roles/><suffix>logging.verbosity</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin_gv_cengelund</sys_created_by><sys_created_on>2023-07-13 20:48:52</sys_created_on><sys_id>67d88ac947883110a1c19db6926d4345</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_58872_needit.logging.verbosity</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_properties_67d88ac947883110a1c19db6926d4345</sys_update_name><sys_updated_by>admin_gv_cengelund</sys_updated_by><sys_updated_on>2023-07-13 20:57:03</sys_updated_on><type>choicelist</type><value>debug</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=67d88ac947883110a1c19db6926d4345"/></record_update>]]></payload>
+        <payload_hash>2042896572</payload_hash>
+        <record_name>x_58872_needit.logging.verbosity</record_name>
+        <reverted_from/>
+        <source>1b43c5f647932110a1c19db6926d43bf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin_gv_cengelund</sys_created_by>
+        <sys_created_on>2023-07-13 20:57:04</sys_created_on>
+        <sys_id>cada4e8947883110a1c19db6926d4355</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189510b069f0000001</sys_recorded_at>
+        <sys_updated_by>admin_gv_cengelund</sys_updated_by>
+        <sys_updated_on>2023-07-13 20:57:04</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>42da4e890a883110946eb37f29582f55</update_guid>
+        <update_guid_history>42da4e890a883110946eb37f29582f55:2042896572,caf80ec98f8831103bbe8578d720820e:1375585269</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin_gv_cengelund</sys_created_by>
+        <sys_created_on>2023-07-13 20:59:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>64bc1cecee65432ea4388f9eb23fd3c4</sys_id>
+        <sys_metadata>67d88ac947883110a1c19db6926d4345</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.logging.verbosity</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_properties_67d88ac947883110a1c19db6926d4345</sys_update_name>
+        <sys_update_version display_value="sys_properties_67d88ac947883110a1c19db6926d4345">cada4e8947883110a1c19db6926d4355</sys_update_version>
+        <sys_updated_by>admin_gv_cengelund</sys_updated_by>
+        <sys_updated_on>2023-07-13 20:59:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
